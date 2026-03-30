@@ -1,0 +1,5 @@
+{
+  "name": "VibeCode Transpiler",
+  "description": "A prototype English-as-a-Language transpiler that converts conversational intent into executable logic using semantic 'vibe' checks.",
+  "requestFramePermissions": []
+}
